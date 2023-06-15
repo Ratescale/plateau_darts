@@ -4,4 +4,4 @@
 - PLATEAU 新宿区 https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku-2022
 
 ### 進捗管理
-Issueで管理 
+Issueで管理 https://github.com/Ratescale/plateau_darts/issues
